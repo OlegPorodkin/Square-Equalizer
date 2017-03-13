@@ -11,7 +11,7 @@ import java.awt.*;
  */
 public class equalizer {
 
-    static JFrame f = new JFrame("Мое первый музыкальный клип");
+    static JFrame f = new JFrame("Мой первый музыкальный клип");
     static MyDrawPanel m1;
 
     public static void main(String[] args) {
